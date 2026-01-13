@@ -1,0 +1,176 @@
+[
+  {
+    "name": "Telangana",
+    "localName": "తెలంగాణ",
+    "code": "TS",
+    "districts": [
+{
+        "name": "Adilabad",
+        "localName": "ఆదిలాబాద్",
+        "mandals": [
+          {
+            "name": "Adilabad",
+            "localName": "ఆదిలాబాద్",
+            "code": "mandal:adilabad",
+            "mCode": "adilabad"
+          }
+        ]
+      },
+{
+        "name": "Nizamabad",
+        "localName": "నిజామాబాద్",
+        "mandals": [
+          {
+            "name": "Nizamabad",
+            "localName": "నిజామాబాద్",
+            "code": "mandal:nizamabad",
+            "mCode": "nizamabad"
+          }
+        ]
+      },
+{
+        "name": "Karimnagar",
+        "localName": "కరీంనగర్",
+        "mandals": [
+          {
+            "name": "Karimnagar",
+            "localName": "కరీంనగర్",
+            "code": "mandal:karimnagar",
+            "mCode": "karimnagar"
+          },
+  {
+            "name": "Peddapalli",
+            "localName": "పెద్దపల్లి",
+            "code": "mandal:peddapalli",
+            "mCode": "peddapalli"
+          }
+        ]
+      },
+{
+        "name": "Warangal",
+        "localName": "వరంగల్",
+        "mandals": [
+          {
+            "name": "Warangal",
+            "localName": "వరంగల్",
+            "code": "mandal:warangal",
+            "mCode": "warangal"
+          },
+      {
+            "name": "Mahabubabad",
+            "localName": "మహబూబాబాద్",
+            "code": "mandal:mahabubabad",
+            "mCode": "mahabubabad"
+          }
+        ]
+      },
+      
+      {
+        "name": "Khammam",
+        "localName": "ఖమ్మం",
+        "mandals": [
+          {
+            "name": "Khammam",
+            "localName": "ఖమ్మం",
+            "code": "mandal:khammam",
+            "mCode": "khammam"
+          }
+        ]
+      },
+{
+        "name": "Hyderabad",
+        "localName": "హైదరాబాద్",
+        "mandals": [
+          {
+            "name": "Hyderabad",
+            "localName": "హైదరాబాద్",
+            "code": "mandal:hyderabad",
+            "mCode": "hyderabad"
+          },
+{
+            "name": "Secunderabad",
+            "localName": "సికింద్రాబాద్",
+            "code": "mandal:secunderabad",
+            "mCode": "secunderabad"
+          },
+{
+            "name": "Malkajgiri",
+            "localName": "మల్కాజిగిరి",
+            "code": "mandal:malkajgiri",
+            "mCode": "malkajgiri"
+          }
+
+
+        ]
+      },
+      
+      {
+        "name": "Medak",
+        "localName": "మెదక్",
+        "mandals": [
+          {
+            "name": "Medak",
+            "localName": "మెదక్",
+            "code": "mandal:medak",
+            "mCode": "medak"
+          },
+{
+            "name": "Zaheerabad",
+            "localName": "జహీరాబాద్",
+            "code": "mandal:zaheerabad",
+            "mCode": "zaheerabad"
+          }
+
+        ]
+      },
+{
+        "name": "Rangareddy",
+        "localName": "రంగారెడ్డి",
+        "mandals": [
+          {
+            "name": "Chevella",
+            "localName": "చేవెళ్ల",
+            "code": "mandal:chevella",
+            "mCode": "chevella"
+          }
+        ]
+      },
+{
+        "name": "Mahabubnagar",
+        "localName": "మహబూబ్ నగర్",
+        "mandals": [
+          {
+            "name": "Mahabubnagar",
+            "localName": "మహబూబ్ నగర్",
+            "code": "mandal:mahabubnagar",
+            "mCode": "mahabubnagar"
+          },
+{
+            "name": "Nagar Kurnool",
+            "localName": "నాగర్ కర్నూల్",
+            "code": "mandal:nagarkurnool",
+            "mCode": "nagarkurnool"
+          }
+        ]
+      },
+{
+        "name": "Nalgonda",
+        "localName": "నల్గొండ",
+        "mandals": [
+          {
+            "name": "Nalgonda",
+            "localName": "నల్గొండ",
+            "code": "mandal:nalgonda",
+            "mCode": "nalgonda"
+          },
+ {
+            "name": "Bhuvanagiri",
+            "localName": "భువనగిరి",
+            "code": "mandal:bhuvanagiri",
+            "mCode": "bhuvanagiri"
+          }
+        ]
+      }
+    ]
+  }
+]
